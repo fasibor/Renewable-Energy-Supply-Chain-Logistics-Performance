@@ -4,6 +4,9 @@
 ![Status](https://img.shields.io/badge/Project-Completed-blue)
 ![Domain](https://img.shields.io/badge/Domain-Logistics%20%26%20Supply%20Chain-orange)
 
+<img width="1575" height="766" alt="Renewable Energy Dashboard" src="https://github.com/user-attachments/assets/083c6f39-e3ec-4b98-bdc2-0ce5a9f55a6f" />
+
+
 An end-to-end data analysis project investigating delivery delays, material damage, supplier performance, and freight cost overruns across 300 renewable-energy shipment records (Jan – Sept 2026).
 
  **Core Problem:** Identify specific operational bottlenecks driving shipment delays, material damage, and freight cost variances in last-mile renewable energy deployment.
